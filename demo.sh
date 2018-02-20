@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ALBUMID="8012534"
+ALBUMID="80711920"
 RSSFILE="8012534.xml"
 # export PBUUID=""
 ./ximalaya_linux_amd64 $ALBUMID > $RSSFILE
